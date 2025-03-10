@@ -134,4 +134,4 @@ print("Chatbot:", respuesta)
 Si tienes alguna pregunta, sugerencia o contribución, no dudes en contactar a:
 
 - [Germán Mallo Faure](https://germanmallo.com)
-- Email: [germanmallo04@gmail.com]
+- Email: germanmallo04@gmail.com
