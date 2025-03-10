@@ -1,18 +1,7 @@
-## Índice
-
-1. [Introducción](#introducción)
-2. [Información General](#información-general)
-3. [Servicios y Soluciones](#servicios-y-soluciones)
-4. [Contenido del Blog y Noticias](#contenido-del-blog-y-noticias)
-5. [Opiniones y Testimonios](#opiniones-y-testimonios)
-6. [Redes Sociales y Presencia Digital](#redes-sociales-y-presencia-digital)
-7. [Contacto y Datos de Comunicación](#contacto-y-datos-de-comunicación)
-8. [Apéndice y Fuentes](#apéndice-y-fuentes)
-
-## Introducción
+## 1. Introducción
 
 ### Resumen Objetivo
-Este documento es un dossier integral que consolida toda la información relevante sobre Enerbía, recopilada a partir de diversas fuentes oficiales y externas. Su finalidad es ofrecer una visión completa y estructurada de la empresa, abarcando desde su historia y misión hasta la descripción detallada de sus servicios, opiniones de clientes y presencia digital. Esta recopilación servirá como base para posteriores procesos, como la generación de embeddings y la implementación de un chatbot que brinde respuestas precisas y contextuales a consultas de usuarios.
+Este documento es un dossier integral que consolida toda la información relevante sobre Enervia, recopilada a partir de diversas fuentes oficiales y externas. Su finalidad es ofrecer una visión completa y estructurada de la empresa, abarcando desde su historia y misión hasta la descripción detallada de sus servicios, opiniones de clientes y presencia digital. Esta recopilación servirá como base para posteriores procesos, como la generación de embeddings y la implementación de un chatbot que brinde respuestas precisas y contextuales a consultas de usuarios.
 
 
 #### Objetivos
@@ -20,38 +9,38 @@ Este documento es un dossier integral que consolida toda la información relevan
   Unificar y estructurar la información proveniente de la web oficial, blogs, reviews, FAQs y redes sociales en un solo documento.
   
 - **Facilitar la Consulta y el Análisis:**  
-  Permitir una revisión rápida y completa de los aspectos clave de Enerbía, tanto para fines internos como para integraciones tecnológicas.
+  Permitir una revisión rápida y completa de los aspectos clave de Enervia, tanto para fines internos como para integraciones tecnológicas.
   
 - **Soporte para Proyectos Tecnológicos:**  
   Servir de base para la creación de sistemas automatizados (por ejemplo, un chatbot) que puedan acceder y utilizar esta información para responder consultas en tiempo real.
   
 - **Mejorar la Comunicación Corporativa:**  
-  Proveer un recurso que contribuya a la transparencia y consistencia de la imagen corporativa de Enerbía ante clientes, socios y colaboradores.
+  Proveer un recurso que contribuya a la transparencia y consistencia de la imagen corporativa de Enervia ante clientes, socios y colaboradores.
 
 
 ### Alcance del Documento
 
 Este dossier abarca las siguientes áreas:
 
-1. **Información General:**  
-   - Historia, misión, visión, valores y estructura organizacional de Enerbía.
+- **Información General:**  
+   - Historia, misión, visión, valores y estructura organizacional de Enervia.
 
-2. **Servicios y Soluciones:**  
+- **Servicios y Soluciones:**  
    - Descripción detallada de los servicios ofrecidos, con énfasis en SAEs, UPS y sistemas de alimentación ininterrumpida.
   
-3. **Contenido del Blog y Noticias:**  
+- **Contenido del Blog y Noticias:**  
    - Selección de artículos y posts relevantes que ilustren casos de éxito, innovaciones y novedades de la empresa.
 
-4. **Preguntas Frecuentes (FAQs):**  
+- **Preguntas Frecuentes (FAQs):**  
    - Compilación de las preguntas y respuestas más comunes para atender dudas de clientes y prospectos.
   
-5. **Opiniones y Testimonios:**  
+- **Opiniones y Testimonios:**  
    - Reviews de Google y comentarios destacados de la cuenta de Instagram, reflejando la percepción del público.
   
-6. **Datos de Contacto y Redes Sociales:**  
-   - Información actualizada para establecer contacto, así como enlaces a las principales redes sociales y plataformas digitales de Enerbía.
+- **Datos de Contacto y Redes Sociales:**  
+   - Información actualizada para establecer contacto, así como enlaces a las principales redes sociales y plataformas digitales de Enervia.
 
-## Información General
+## 2. Información General
 
 ### Historia y Origen
 Enervía nace en el año **2005**, iniciando sus actividades con un enfoque especializado en **SAI** (Sistemas de Alimentación Ininterrumpida) y **UPS**. A lo largo de los años, la empresa ha ampliado sus áreas de experiencia, especialmente en el ámbito de las **Energías Renovables**. Un hito importante se produjo en **2007**, cuando Enervía empezó a incorporar proyectos de **energía solar** en su portafolio de soluciones energéticas.  
@@ -68,11 +57,11 @@ Gracias a estos hitos, Enervía ha evolucionado hasta convertirse en un referent
   Convertirse en un **referente nacional** en soluciones energéticas sostenibles y eficientes, impulsando la adopción de **energías renovables** y sistemas de alimentación ininterrumpida de última generación. Enervía aspira a liderar la transformación hacia un modelo energético más **limpio, seguro y confiable**.
 
 - **Valores:**  
-  1. **Compromiso con la Calidad:** Cada proyecto se ejecuta bajo altos estándares técnicos y de seguridad.  
-  2. **Innovación:** Búsqueda continua de nuevas tecnologías y mejoras en procesos para optimizar el consumo energético.  
-  3. **Sostenibilidad:** Promoción de las energías renovables y soluciones que contribuyan a la protección del medio ambiente.  
-  4. **Orientación al Cliente:** Asesoría personalizada y acompañamiento cercano en todas las etapas de cada proyecto.  
-  5. **Trabajo en Equipo:** Colaboración interna y con socios estratégicos para lograr los objetivos comunes.
+  - **Compromiso con la Calidad:** Cada proyecto se ejecuta bajo altos estándares técnicos y de seguridad.  
+  - **Innovación:** Búsqueda continua de nuevas tecnologías y mejoras en procesos para optimizar el consumo energético.  
+  - **Sostenibilidad:** Promoción de las energías renovables y soluciones que contribuyan a la protección del medio ambiente.  
+  - **Orientación al Cliente:** Asesoría personalizada y acompañamiento cercano en todas las etapas de cada proyecto.  
+  - **Trabajo en Equipo:** Colaboración interna y con socios estratégicos para lograr los objetivos comunes.
 
 ### Equipo y Estructura Organizativa
 Enervía cuenta con un **equipo multidisciplinar** de profesionales formados en instalación, mantenimiento y reparación de sistemas de alimentación ininterrumpida y energías renovables.  
@@ -90,7 +79,7 @@ Esta estructura organizativa permite a Enervía ofrecer soluciones completas y a
 - **Compromiso con la Eficiencia Energética:** Además de la venta y mantenimiento de SAI y UPS, Enervía promueve soluciones de **energías renovables** y fomenta la implementación de prácticas sostenibles.  
 - **Orientación al Cliente:** El sitio web enfatiza la importancia de brindar un trato cercano y soluciones a medida, buscando la máxima satisfacción y la optimización de los recursos energéticos.
 
-## Servicios y Soluciones
+## 3. Servicios y Soluciones
 
 ### Instalación de SAI / UPS
 Enervía se encarga de **todo el proceso de instalación** de Sistemas de Alimentación Ininterrumpida (SAI/UPS). Comienza con una visita previa para analizar la ubicación, las necesidades eléctricas y los requerimientos del cliente. Posteriormente, se planifica la instalación y se asegura de que todos los dispositivos queden correctamente configurados y conectados.
@@ -146,7 +135,7 @@ Además de las soluciones energéticas, Enervía brinda **servicios de diseño w
 - **Posicionamiento SEO/SEM:** Mejora de la visibilidad online para atraer a más clientes potenciales.  
 - **Integración de Servicios:** Posibilidad de unir soluciones energéticas con sistemas de monitorización y control basados en la nube.
 
-## Contenido del Blog y Noticias
+## 4. Contenido del Blog y Noticias
 
 En el blog de Enervia se aborda una amplia gama de temas relacionados con la protección y el mantenimiento de Sistemas de Alimentación Ininterrumpida (SAI/UPS), así como la evolución tecnológica en el sector energético. En lugar de centrarse en un solo post, se han identificado los siguientes ejes temáticos que destacan en la comunicación de la empresa:
 
@@ -172,7 +161,7 @@ En el blog de Enervia se aborda una amplia gama de temas relacionados con la pro
 
 ### 6. Casos de Éxito y Testimonios
 
-## Opiniones y Testimonios
+## 5. Opiniones y Testimonios
 
 Enervía cuenta con valoraciones positivas de clientes satisfechos que destacan la profesionalidad, la calidad del servicio y la atención personalizada. A continuación, se presentan algunas de las reseñas más recientes:
 
@@ -196,9 +185,7 @@ En líneas generales, los clientes resaltan:
 - **Relación Calidad-Precio:** Varios clientes mencionan que el coste de los servicios está justificado por la calidad y el asesoramiento brindado.  
 - **Alto Nivel de Satisfacción:** La recomendación y las valoraciones de 5/5 sugieren un índice de satisfacción muy alto.
 
-### Redes sociales y presencia digital
-
-## Redes Sociales y Presencia Digital
+## 6. Redes Sociales y Presencia Digital
 
 Enervia mantiene una presencia digital activa y coherente, que complementa y potencia la comunicación establecida en su web y blog. La estrategia digital se centra en:
 
@@ -218,33 +205,31 @@ Esta estrategia integral en redes sociales y la web refuerza la imagen de Enervi
 
 ### Contacto y Datos de Comunicación
 
-Perfecto, con la información adicional de la página de contacto, podemos complementar la sección de “Contacto y Datos de Comunicación” de la siguiente manera:
-
-## Contacto y Datos de Comunicación
+## 7. Contacto y Datos de Comunicación
 
 Enervía pone a disposición de sus clientes y visitantes diversas vías para solicitar información, concertar citas y recibir asesoramiento personalizado:
 
-1. **Formulario de Contacto en la Web**  
+- **Formulario de Contacto en la Web**  
    - A través del sitio oficial [www.enervia.net](https://enervia.net/contactar/), los usuarios pueden rellenar el formulario de contacto.  
    - El formulario solicita datos básicos como nombre, correo electrónico y mensaje, lo que facilita una comunicación directa y rápida con el equipo de Enervía.
 
-2. **Ubicación y Dirección**  
+- **Ubicación y Dirección**  
    - **Oficinas Centrales:**  
      Calle Seders 4, 46290 Alcácer (Valencia), España
 
-3. **Teléfonos de Contacto**  
+- **Teléfonos de Contacto**  
    - **Fijo:** +34 962 98 81 41  
    - **Móvil:** +34 606 72 27 69  
 
-4. **Correo Electrónico**  
+- **Correo Electrónico**  
    - **E-mail Principal:** info@enervia.net  
    Para consultas generales, solicitudes de presupuesto o coordinación de proyectos.
 
-5. **Sitio Web Oficial**  
+- **Sitio Web Oficial**  
    - [www.enervia.net](https://enervia.net/)  
    Incluye información detallada sobre los servicios de instalación, mantenimiento, reparación y venta de SAIs (UPS), así como secciones de blog y noticias actualizadas.
 
-6. **Redes Sociales**  
+- **Redes Sociales**  
    - **Instagram:**  
      Contenido visual sobre proyectos, eventos y novedades de Enervía, así como feedback de clientes. 
    - **Facebook:**  
@@ -252,7 +237,7 @@ Enervía pone a disposición de sus clientes y visitantes diversas vías para so
     - **LinkedIn:**
       Actualizaciones sobre la empresa, logros y colaboraciones, así como contenido técnico y de interés para profesionales del sector.
 
-## Apéndice y Fuentes
+## 8. Apéndice y Fuentes
 
 A continuación, un ejemplo de cómo redactar la sección de **Apéndice y Fuentes** para cerrar el documento unificado:
 
