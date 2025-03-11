@@ -1,6 +1,6 @@
 # Chatbot para Enervia – Proyecto de Retrieval Augmented Generation (RAG)
 
-Este proyecto implementa un chatbot para Enervia utilizando técnicas de **Retrieval Augmented Generation** (RAG). El chatbot extrae información relevante de dos documentos PDF (un dossier unificado y un PDF de FAQs), los segmenta, limpia y genera embeddings con modelos gratuitos (SentenceTransformers). Luego, indexa estos embeddings usando FAISS para recuperar fragmentos relevantes a partir de una consulta del usuario. Finalmente, se utiliza la API de OpenAI (ChatCompletion con GPT-3.5-turbo) para generar respuestas contextualizadas basadas en la información recuperada.
+Este proyecto implementa un chatbot para [Enervia: Soluciones Energéticas](https://enervia.net) utilizando técnicas de **Retrieval Augmented Generation** (RAG). El chatbot extrae información relevante de dos documentos PDF (un dossier unificado y un PDF de FAQs), los segmenta, limpia y genera embeddings con modelos gratuitos (SentenceTransformers). Luego, indexa estos embeddings usando FAISS para recuperar fragmentos relevantes a partir de una consulta del usuario. Finalmente, se utiliza la API de OpenAI (ChatCompletion con GPT-3.5-turbo) para generar respuestas contextualizadas basadas en la información recuperada.
 
 ## Tabla de Contenidos
 
@@ -134,4 +134,4 @@ print("Chatbot:", respuesta)
 Si tienes alguna pregunta, sugerencia o contribución, no dudes en contactar a:
 
 - [Germán Mallo Faure](https://germanmallo.com)
-- Email: [germanmallo04@gmail.com]
+- Email: germanmallo04@gmail.com
