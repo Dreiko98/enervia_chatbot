@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot de Enervía</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        #chat-log {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+        .mensaje {
+            margin: 10px 0;
+        }
+        .usuario {
+            color: #007BFF;
+        }
+        .bot {
+            color: #28a745;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 12px;
+            margin: 8px 0;
+            box-sizing: border-box;
+        }
+        button {
+            padding: 12px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Chatbot de Enervía</h1>
+        <div id="chat-log">
+            <!-- Aquí se irán añadiendo los mensajes -->
+        </div>
+        <form id="chat-form">
+            <input type="text" id="query" placeholder="Escribe tu pregunta..." required>
+            <button type="submit">Enviar</button>
+        </form>
+        <button id="reset-btn" style="margin-top:10px;">Reiniciar Conversación</button>
+    </div>
+
+    <script>
+        const chatLog = document.getElementById("chat-log");
+
+        function addMessage(role, text) {
+            const div = document.createElement("div");
+            div.className = "mensaje " + (role === "user" ? "usuario" : "bot");
+            div.innerHTML = `<strong>${role === "user" ? "Tú" : "Asistente"}:</strong> ${text}`;
+            chatLog.appendChild(div);
+            chatLog.scrollTop = chatLog.scrollHeight;
+        }
+
+        document.getElementById("chat-form").addEventListener("submit", function(e) {
+            e.preventDefault();
+            const query = document.getElementById("query").value;
+            addMessage("user", query);
+            document.getElementById("query").value = "";
+            fetch("/preguntar", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/x-www-form-urlencoded",
+                },
+                body: new URLSearchParams({ "query": query })
+            })
+            .then(response => response.json())
+            .then(data => {
+                addMessage("assistant", data.respuesta);
+            })
+            .catch(error => console.error("Error:", error));
+        });
+
+        document.getElementById("reset-btn").addEventListener("click", function() {
+            fetch("/reset", { method: "POST" })
+            .then(response => response.json())
+            .then(data => {
+                chatLog.innerHTML = "";
+            })
+            .catch(error => console.error("Error:", error));
+        });
+    </script>
+</body>
+</html>

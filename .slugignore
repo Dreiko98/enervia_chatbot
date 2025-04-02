@@ -1,0 +1,12 @@
+# Ignorar corpora y datos de NLTK
+nltk_data/
+# Ignorar carpetas de datos o archivos pesados
+contenido_para_alimentar/
+# Ignorar archivos de pruebas y logs
+tests/
+*.log
+*.tmp
+# Ignorar documentación
+docs/
+README.md
+.gitignore
